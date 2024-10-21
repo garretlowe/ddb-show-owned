@@ -1,7 +1,7 @@
 {
   "name": "D&D Beyond - Owned Only",
   "author": "Garret Lowe",
-  "description": "Adds a aimple \"owned\" filter to the D&D Beyond sources page",
+  "description": "Adds a simple \"owned\" filter to the D&D Beyond sources page",
   "version": "1.0",
   "manifest_version": 3,
   "permissions": [],
