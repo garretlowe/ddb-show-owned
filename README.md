@@ -1,17 +1,17 @@
 
-<p align="center"><img width="128" alt="D&D Beyond - Show Owned Logo" src="https://github.com/garretlowe/ddb-show-owned/blob/main/src/images/ddb-show-owned128.png?raw=true"></p>
-<h2 align="center"><b>D&D Beyond - Show Owned</b></h2>
-<p align="center"><b>Add owned filter to D&D Beyond</b></p>
+<center>
+  # D&D Beyond - Show Owned
 
----
+  ![D&D Beyond - Show Owned](https://github.com/garretlowe/ddb-show-owned/blob/main/src/images/ddb-show-owned128.png?raw=true)
+
+  [![Chrome Extension](https://img.shields.io/chrome-web-store/users/egadcmikahjiaaiembnckkgccbaicgho?logo=chromewebstore)](https://chromewebstore.google.com/detail/egadcmikahjiaaiembnckkgccbaicgho)
+  [![Mozilla Add-on](https://img.shields.io/amo/users/d-d-beyond-owned-only?logo=firefoxbrowser)](https://addons.mozilla.org/firefox/addon/d-d-beyond-owned-only/)
+
+  Add owned filter to D&D Beyond
+</center>
+
 
 Adds a simple "owned" filter to the D&D Beyond sources page.
-
-Try it on: 
-
-[Chrome Web Store]()
-
-[Firefox Add-ons]()
 
 <img src="https://github.com/garretlowe/ddb-show-owned/blob/main/resources/sample1.png?raw=true">
 
