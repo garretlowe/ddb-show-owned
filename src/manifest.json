@@ -1,0 +1,26 @@
+{
+  "name": "D&D Beyond - Owned Only",
+  "author": "Garret Lowe",
+  "description": "Adds a aimple \"owned\" filter to the D&D Beyond sources page",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["https://www.dndbeyond.com/sources"],
+      "js": ["background.js"]
+    }
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{f517ab73-9ad9-4f3c-9fcc-3c6df6a7a298}",
+      "strict_min_version": "58.0"
+    }
+  },
+  "icons": {
+      "16": "/images/ddb-show-owned16.png",
+      "32": "/images/ddb-show-owned32.png",
+      "48": "/images/ddb-show-owned48.png",
+      "128": "/images/ddb-show-owned128.png"
+  }
+}
